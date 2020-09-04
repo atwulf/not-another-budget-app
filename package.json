@@ -22,7 +22,7 @@
     "moment": "^2.19.3",
     "mongoose": "latest",
     "morgan": "~1.6.1",
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "node-sass-middleware": "0.8.0",
     "numeral": "^1.5.3",
     "pg": "^7.4.1",
